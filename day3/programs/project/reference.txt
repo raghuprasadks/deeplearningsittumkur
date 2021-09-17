@@ -1,0 +1,5 @@
+https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+https://github.com/hlamba28/UNET-TGS
+https://www.kaggle.com/c/tgs-salt-identification-challenge/data
+CT Scan
+https://www.youtube.com/watch?v=xIvmg4IqeIk

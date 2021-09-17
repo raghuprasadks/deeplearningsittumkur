@@ -1,0 +1,13 @@
+1.Yolo from scratch
+https://www.youtube.com/watch?v=MhftoBaoZpg&t=8s
+2. Program on object detection
+https://www.youtube.com/watch?v=8sf7UBMWvA4&t=598s
+https://github.com/balajisrinivas/Object-Detection-on-images-using-YOLO.git
+3.real time object detection - https://www.youtube.com/watch?v=ebAykr9YZ30
+https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing
+https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing
+
+https://analyticsindiamag.com/my-experiment-with-unet-building-an-image-segmentation-model/
+
+https://www.youtube.com/watch?v=J_XSd_u_Yew
+https://www.section.io/engineering-education/introduction-to-yolo-algorithm-for-object-detection/

@@ -1,0 +1,67 @@
+https://towardsdatascience.com/predictive-analysis-rnn-lstm-and-gru-to-predict-water-consumption-e6bb3c2b4b02
+
+https://www.kaggle.com/mloey1/covid19-chest-ct-image-augmentation-gan-dataset/version/1
+
+https://github.com/bnsreenu
+
+
+step 1 - download the cell_images.zip
+from the https://lhncbc.nlm.nih.gov/LHC-publications/pubs/MalariaDatasets.html
+
+step 2 - Augment any image and store the augmented image
+under augmented folder
+
+End to end application
+Machine Learning
+
+Bengaluru Real Estate Dataset 
+csv
+1. building a model - ML Model
+Linear Regression
+Data clearning,cleanzing,feature engineering
+Model convert into a pickel file
+.h5
+2. Back end programming - python flask
+install flask by using
+pip install flask 
+copy pickle file and json file to 
+server-artifact folder
+to run the server
+python server.py 
+
+
+
+ssh -i "c:
+
+ls
+sudo apt-get update
+sudo apt-get nginx
+sudo service nginx status
+/etc/nginx
+nginx.conf
+less sites-enabled
+less /var/www/html
+sudo unlink default
+sudo vim bhp.conf
+sudo service nginx restart
+cd ~
+sudo apt install pip3
+
+download git
+install 
+
+
+
+postman
+indian company - unicon
+3. Front end programming using html/css/java script
+4. Deploying the application on Nginx server
+5. Deploy it on AWS
+
+
+
+
+
+
+
+ 

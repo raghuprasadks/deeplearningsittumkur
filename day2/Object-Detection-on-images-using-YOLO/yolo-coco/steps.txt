@@ -1,0 +1,16 @@
+step 1 - download files from
+https://github.com/balajisrinivas/Object-Detection-on-images-using-YOLO
+step 2 - unzip and extract in a folder
+step 3 - install the required libraries
+in anaconda prompt
+pip install opencv-python==3.4.15
+pip install argparse
+step 4 - download 
+weight file 
+https://pjreddie.com/media/files/yolov3.weights
+step 5 - copy weigh file to yolo-coco folder
+step 6 - download image and copy to
+images folder
+step 7 - python yolo.py --image images/ipl.jpeg 
+
+

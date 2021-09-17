@@ -1,0 +1,22 @@
+https://medium.com/analytics-vidhya/activation-functions-and-loss-functions-for-neural-networks-how-to-pick-the-right-one-542e1dd523e0
+https://www.youtube.com/watch?v=NrmMk1Myrxc
+https://www.youtube.com/watch?v=D5VN56jQMWM
+https://towardsdatascience.com/introduction-to-convolutional-neural-networks-cnn-with-tensorflow-57e2f4837e18
+https://www.analyticsvidhya.com/blog/2021/07/demystifying-the-difference-between-multi-class-and-multi-label-classification-problem-statements-in-deep-learning/
+https://www.tensorflow.org/tutorials/images/cnn
+
+https://yash-kukreja-98.medium.com/recognizing-handwritten-digits-in-real-life-images-using-cnn-3b48a9ae5e3
+https://github.com/yashvardhan-kukreja/Digit-Recognition-Using-CNN
+https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/
+Software - Anaconda
+
+tensorflow - Google
+
+anaconda prompt
+pip install tensorflow
+
+google colab
+!pip install tensorflow
+
+
+

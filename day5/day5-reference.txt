@@ -1,0 +1,85 @@
+https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD
+https://www.kaggle.com/arjuntejaswi/plant-village
+https://github.com/codebasics/potato-disease-classification/blob/main/training/potato-disease-classification-model.ipynb
+https://www.kaggle.com/arjuntejaswi/plant-village
+pip install fastapi
+pip install uvicorn   - server
+uvicorn main:app --reload
+127.0.0.1/docs
+
+pip install -r requirements.txt
+
+
+npm install --from-lock-json
+npm run start
+
+End to end deeplearning project
+
+git clone https://github.com/codebasics/potato-disease-classification.git
+
+End to end machine learning project
+
+
+download and install node.js
+
+1. First time activity
+git init
+git add testfile.txt
+
+provide your credentials
+
+git commit -m "first commit"
+git remote add origin https://github.com/raghuprasadks/gitdemonew.git
+git push -u origin main
+
+2. After every new file or modification of an existing file
+git status
+
+git add .
+git commit -m "second commit"
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+Bengalure house price prediction
+
+Agriculture
+
+problem statement -Potato - 
+microorganisms
+
+Detected
+
+1. How do we detect
+2. Field trip
+3. Collect - images
+4. Get it from net
+
+problem is classification - CNN
+
+application 
+
+
+Software requirement
+
+1. anaconda 
+path should be set
+
+add to path - yes
+2. git
+3. download and install post man
+
+
+
+
+
+BACK END PROGRAMMING
+
+pip install -r requirements.txt
